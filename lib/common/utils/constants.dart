@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 class Constants {
   
   
-  static const dommain = 'https://lms.orglanceltd.store/';
+  static const dommain = 'https://lms.orglanceltd.store';
   static const baseUrl = '$dommain/api/development/';
   static const apiKey = '1234';
   static const scheme = 'academyapp';
