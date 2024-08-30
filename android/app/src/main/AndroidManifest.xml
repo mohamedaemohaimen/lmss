@@ -51,7 +51,7 @@
 
 
     <application
-        android:label="Rocket LMS"
+        android:label="Orcourse"
         android:usesCleartextTraffic="true"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
