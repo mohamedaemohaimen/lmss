@@ -74,7 +74,7 @@ class _SplashPageState extends State<SplashPage> with SingleTickerProviderStateM
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: const Color(0xff00BA63),
+      backgroundColor: const Color(0xFFFFA500),
       body: Container(
         width: getSize().width,
         height: getSize().height,
