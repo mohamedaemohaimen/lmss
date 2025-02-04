@@ -51,7 +51,7 @@
 
 
     <application
-        android:label="Orcourse"
+        android:label="D.A.M.A.F.I"
         android:usesCleartextTraffic="true"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
