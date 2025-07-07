@@ -1,4 +1,4 @@
-package com.damafi.lms
+package com.nrun.lms
 
 import io.flutter.embedding.android.FlutterActivity
 import com.facebook.FacebookSdk;
