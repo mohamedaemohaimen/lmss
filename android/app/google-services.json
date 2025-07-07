@@ -1,153 +1,26 @@
 {
   "project_info": {
-    "project_number": "930358881911",
-    "firebase_url": "https://wafer-226e3-default-rtdb.firebaseio.com",
-    "project_id": "wafer-226e3",
-    "storage_bucket": "wafer-226e3.appspot.com"
+    "project_number": "250846624593",
+    "project_id": "nrun-7836c",
+    "storage_bucket": "nrun-7836c.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:930358881911:android:4a70e745ec3c73aaa72072",
+        "mobilesdk_app_id": "1:250846624593:android:e191f0e5b9263ce349f170",
         "android_client_info": {
-          "package_name": "com.damafi.lms"
+          "package_name": "com.nrun.lms"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "930358881911-dm6mgh495iq3cfjqeie9i3da7nf5cjvb.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBVXedE-BTHgYsEx42kQ6m2LrCq3cTyd3c"
+          "current_key": "AIzaSyDFKgCZCuxkF6g-XiMahSnWQH8E1aUggMY"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "930358881911-dm6mgh495iq3cfjqeie9i3da7nf5cjvb.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:930358881911:android:bfcae3a3efe70c63a72072",
-        "android_client_info": {
-          "package_name": "com.wafer"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "930358881911-dm6mgh495iq3cfjqeie9i3da7nf5cjvb.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyBVXedE-BTHgYsEx42kQ6m2LrCq3cTyd3c"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "930358881911-dm6mgh495iq3cfjqeie9i3da7nf5cjvb.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:930358881911:android:775a874563b0d05ea72072",
-        "android_client_info": {
-          "package_name": "com.wafer.delivery"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "930358881911-dm6mgh495iq3cfjqeie9i3da7nf5cjvb.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyBVXedE-BTHgYsEx42kQ6m2LrCq3cTyd3c"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "930358881911-dm6mgh495iq3cfjqeie9i3da7nf5cjvb.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:930358881911:android:fdeae15dec812318a72072",
-        "android_client_info": {
-          "package_name": "com.wafer.owner"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "930358881911-dm6mgh495iq3cfjqeie9i3da7nf5cjvb.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyBVXedE-BTHgYsEx42kQ6m2LrCq3cTyd3c"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "930358881911-dm6mgh495iq3cfjqeie9i3da7nf5cjvb.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:930358881911:android:f6140fdf45ef26dea72072",
-        "android_client_info": {
-          "package_name": "com.waffer.store"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "930358881911-dm6mgh495iq3cfjqeie9i3da7nf5cjvb.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyBVXedE-BTHgYsEx42kQ6m2LrCq3cTyd3c"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "930358881911-dm6mgh495iq3cfjqeie9i3da7nf5cjvb.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "other_platform_oauth_client": []
         }
       }
     }
